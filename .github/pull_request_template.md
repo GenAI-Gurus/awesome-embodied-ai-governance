@@ -2,6 +2,12 @@
 
 Describe the resource's relevance to governing embodied or physical AI.
 
+## Source details
+
+- Section:
+- Last link check:
+- Affiliation:
+
 ## Checklist
 
 - [ ] I linked to the canonical source.
@@ -10,3 +16,4 @@ Describe the resource's relevance to governing embodied or physical AI.
 - [ ] I checked for duplicate entries.
 - [ ] I verified the link.
 - [ ] I disclosed any affiliation.
+- [ ] I did not link to unauthorized copies of paid standards.
