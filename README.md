@@ -284,6 +284,7 @@ Useful runtime questions:
 - [OpenLineage](https://openlineage.io/docs/) - Open standard for lineage
   events and integrations.
 - [CloudEvents](https://cloudevents.io/) - Common envelope for describing
+- [Nobulex](https://github.com/arian-gogani/nobulex) - Ed25519-signed, JCS-canonical (RFC 8785) action receipts for AI agents. Pre/post execution bilateral receipts, hash-chained, independently verifiable without operator trust. EU AI Act Article 12 compliance primitive.
   events across services and platforms.
 - [Transparency.dev](https://transparency.dev/) - Patterns for append-only,
   publicly verifiable records.
